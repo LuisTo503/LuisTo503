@@ -58,14 +58,14 @@ I've created a management simulation game as a personal project that uses AI alg
             </td>
             <td>
                     <img src="https://github.com/user-attachments/assets/d16e70dd-e0a0-4e0c-94e1-f5ba38d429ec" alt="Keras"  height="30" style="margin-right:10px;"/>
-    <img src="https://github.com/user-attachments/assets/b891516b-be72-4a41-ac9f-baa5e76a6b19" alt="Matplotlib" height="20" style="margin-right:10px;"/>
+    <img src="https://github.com/user-attachments/assets/b891516b-be72-4a41-ac9f-baa5e76a6b19" alt="Matplotlib" height="30" style="margin-right:10px;"/>
     <img src="https://numpy.org/images/logo.svg" alt="Numpy" height="40" style="margin-right:10px;"/>
-    <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas" height="20" style="margin-right:10px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="Plotly" height="20" style="margin-right:10px;"/>
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="Pytorch" height="20" style="margin-right:10px;"/>
-    <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-Learn"  height="40" style="margin-right:10px;"/>
-    <img src="https://avatars.githubusercontent.com/u/288277?v=4" alt="Scipy" height="20" style="margin-right:10px;"/>
-    <img src="https://www.tensorflow.org/images/tf_logo_32px.png" alt="TensorFlow" height="20"/>
+    <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas" height="30" style="margin-right:10px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="Plotly" height="40" style="margin-right:10px;"/>
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="Pytorch" height="40" style="margin-right:10px;"/>
+    <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-Learn"  height="20" style="margin-right:10px;"/>
+    <img src="https://avatars.githubusercontent.com/u/288277?v=4" alt="Scipy" height="30" style="margin-right:10px;"/>
+    <img src="https://www.tensorflow.org/images/tf_logo_32px.png" alt="TensorFlow" height="30"/>
 </p>
             </td>
             <td>
@@ -78,7 +78,7 @@ I've created a management simulation game as a personal project that uses AI alg
                 <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU1DiCSZZw76FPxH88CYcg_qb6hWBteVFdTA&s">
                     <img src="https://github.com/user-attachments/assets/eac31c78-4b59-4271-9749-c1ccd361bfbf" alt="Hive" height="30"/>
                 </a>
-                <img src="https://logowik.com/content/uploads/images/google-bigquery6102.jpg" alt="Google BigQuery" height="40"/>
+                <img src="https://logowik.com/content/uploads/images/google-bigquery6102.jpg" alt="Google BigQuery" height="50"/>
             </td>
         </tr>
     </tbody>
