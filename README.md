@@ -71,8 +71,7 @@ I've created a management simulation game as a personal project that uses AI alg
             </td>
             <td>
                 <img src="https://github.com/user-attachments/assets/8a963148-f144-4803-8457-923807cb9c56" alt="Anaconda" height="30"/>
-<img src="https://github.com/user-attachments/assets/1101c54e-7dcb-497f-ad6e-9f530d3687c8" alt="Icon Description" height="30"/>
-
+                <img src="https://github.com/user-attachments/assets/1101c54e-7dcb-497f-ad6e-9f530d3687c8" alt="Icon Description" height="30"/>
                 <img src="https://rstudio.com/assets/img/og/shiny-og-fb.jpg" alt="Shiny" height="30"/>
                 <img src="https://github.com/user-attachments/assets/f83917af-2337-46ec-868b-ee344434a8b5" alt="Streamlit" height="30"/>
                 <img src="https://pentapps.com/wp-content/uploads/2023/09/logo-BI.png" alt="Power BI" height="30"/>
