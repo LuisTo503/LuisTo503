@@ -89,8 +89,7 @@ I've created a management simulation game as a personal project that uses AI alg
   <tr>
     <th>Web Languages</th>
     <th>Web Frameworks & Libraries</th>
-    <th>CMS Tecnologies</th>
-      
+    <th>CMS Technologies</th>
   </tr>
   <tr>
     <td>
@@ -103,19 +102,18 @@ I've created a management simulation game as a personal project that uses AI alg
     <td>
       <p>
         <img src="https://github.com/user-attachments/assets/a008d51b-b0f6-420e-9aec-01dd87567069" alt="Bootstrap 5" width="30" height="30" style="margin-right:10px;"/>
-        <img src="https://github.com/user-attachments/assets/1a970e61-d185-44ec-a713-fa190368b929" alt="Three.js" width="30" height="30" style="margin-right:10px;"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="30" height="30" style="margin-right:10px;"/>
-        <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="30" height="30" style="margin-right:10px;"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="30" height="30" style="margin-right:10px;"/>
+        <img src="https://github.com/user-attachments/assets/1a970e61-d185-44ec-a713-fa190368b929" alt="Three.JS" width="30" height="30" style="margin-right:10px;"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.JS" width="30" height="30" style="margin-right:10px;"/>
+        <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.JS" width="30" height="30" style="margin-right:10px;"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.JS" width="30" height="30" style="margin-right:10px;"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="30" height="30"/>
       </p>
     </td>
-      <tr>
     <td>
       <p>
-        <img src="https://github.com/user-attachments/assets/15243b6d-8253-465e-bee7-88c31ee8a5a3" alt="WordPress" height="40" style="margin-right:10px;"/>
-    <img src="https://miro.medium.com/v2/resize:fit:801/1*yJ_bESi7cLeMTBvPyzHHCw.png" alt="Divi Builder"  height="40" style="margin-right:10px;"/>
-    <img src="https://e7.pngegg.com/pngimages/253/553/png-clipart-elementor-logo-thumbnail-tech-companies.png" alt="Elementor"  height="40"/>
+        <img src="https://github.com/user-attachments/assets/15243b6d-8253-465e-bee7-88c31ee8a5a3" alt="WordPress" width="30" height="30" style="margin-right:10px;"/>
+        <img src="https://miro.medium.com/v2/resize:fit:801/1*yJ_bESi7cLeMTBvPyzHHCw.png" alt="Divi Builder" width="30" height="30" style="margin-right:10px;"/>
+        <img src="https://e7.pngegg.com/pngimages/253/553/png-clipart-elementor-logo-thumbnail-tech-companies.png" alt="Elementor" width="30" height="30"/>
       </p>
     </td>
   </tr>
