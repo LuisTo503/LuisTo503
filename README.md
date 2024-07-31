@@ -84,25 +84,32 @@ I've created a management simulation game as a personal project that uses AI alg
     </tbody>
 </table>
 
-#### General Programming Languages
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="20" style="margin-right:10px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="20"/>
-</p>
+<table>
+  <tr>
+    <th>Web Languages</th>
+    <th>Web Frameworks & Libraries</th>
+  </tr>
+  <tr>
+    <td>
+      <p>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30" height="30" style="margin-right:10px;"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="30" height="30" style="margin-right:10px;"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
+      </p>
+    </td>
+    <td>
+      <p>
+        <img src="https://github.com/user-attachments/assets/a008d51b-b0f6-420e-9aec-01dd87567069" alt="Bootstrap 5" width="30" height="30" style="margin-right:10px;"/>
+        <img src="https://github.com/user-attachments/assets/1a970e61-d185-44ec-a713-fa190368b929" alt="Three.js" width="30" height="30" style="margin-right:10px;"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="30" height="30" style="margin-right:10px;"/>
+        <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="30" height="30" style="margin-right:10px;"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="30" height="30" style="margin-right:10px;"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="30" height="30"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
-#### Python App/Web Frameworks
-<p align="left">
-    <img src="https://raw.githubusercontent.com/pallets/jinja/f8323cf4042ab058ac5b11743614c63308798541/artwork/jinjalogo.svg" alt="Jinja" height="20" style="margin-right:10px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" height="40" style="margin-right:10px;"/>
-    <img src="https://github.com/user-attachments/assets/074b8bb9-5ec9-4b66-9404-0b597a3de8a9" alt="Django"  height="20"/>
-</p>
-
-#### Web Languages
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="20" style="margin-right:10px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="20" style="margin-right:10px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="20"/>
-</p>
 
 #### Web Framework & Libraries
 <p align="left">
