@@ -84,6 +84,7 @@ I've created a management simulation game as a personal project that uses AI alg
     </tbody>
 </table>
 
+<h3>Web</h3>
 <table>
   <tr>
     <th>Web Languages</th>
