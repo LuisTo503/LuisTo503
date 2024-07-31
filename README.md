@@ -28,47 +28,85 @@ Ask me about web application development, data technology integration, or strate
 
 
 😄 Pronouns: ...
-He
+He/Him
 
 ⚡ Fun fact: ...
 I've created a management simulation game as a personal project that uses AI algorithms to learn and adapt to the player's decisions! I love combining technology and creativity to make unique projects.
 
-### General Programming Languages
-| C++ | Python |
-| --- | --- |
-| ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) | ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) |
 
-### General Programming Languages
+<h3>Technology Overview</h3>
+
+<table>
+    <thead>
+        <tr>
+            <th>Languages</th>
+            <th>Frameworks</th>
+            <th>ML/DL</th>
+            <th>Visualization</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30"/>
+            </td>
+            <td>
+                <img src="https://raw.githubusercontent.com/pallets/jinja/f8323cf4042ab058ac5b11743614c63308798541/artwork/jinjalogo.svg" alt="Jinja" height="30"/>
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" height="30"/>
+                <img src="https://github.com/user-attachments/assets/074b8bb9-5ec9-4b66-9404-0b597a3de8a9" alt="Django" height="30"/>
+            </td>
+            <td>
+                <img src="https://github.com/user-attachments/assets/d16e70dd-e0a0-4e0c-94e1-f5ba38d429ec" alt="Keras" height="30"/>
+                <img src="https://github.com/user-attachments/assets/b891516b-be72-4a41-ac9f-baa5e76a6b19" alt="Matplotlib" height="30"/>
+                <img src="https://avatars.githubusercontent.com/u/288277?v=4" alt="Scipy" height="30"/>
+            </td>
+            <td>
+                <img src="https://github.com/user-attachments/assets/8a963148-f144-4803-8457-923807cb9c56" alt="Anaconda" height="30"/>
+                <img src="https://rstudio.com/assets/img/og/shiny-og-fb.jpg" alt="Shiny" height="30"/>
+                <img src="https://github.com/user-attachments/assets/f83917af-2337-46ec-868b-ee344434a8b5" alt="Streamlit" height="30"/>
+                <img src="https://pentapps.com/wp-content/uploads/2023/09/logo-BI.png" alt="Power BI" height="30"/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/640px-Tableau_Logo.png" alt="Tableau" height="30"/>
+                <img src="https://github.com/user-attachments/assets/eac31c78-4b59-4271-9749-c1ccd361bfbf" alt="Hadoop" height="30"/>
+                <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU1DiCSZZw76FPxH88CYcg_qb6hWBteVFdTA&s">
+                    <img src="https://github.com/user-attachments/assets/eac31c78-4b59-4271-9749-c1ccd361bfbf" alt="Hive" height="30"/>
+                </a>
+                <img src="https://logowik.com/content/uploads/images/google-bigquery6102.jpg" alt="Google BigQuery" height="30"/>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+#### General Programming Languages
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin-right:10px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="20" style="margin-right:10px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="20"/>
 </p>
 
-### Python App/Web Frameworks
+#### Python App/Web Frameworks
 <p align="left">
-    <img src="https://raw.githubusercontent.com/pallets/jinja/f8323cf4042ab058ac5b11743614c63308798541/artwork/jinjalogo.svg" alt="Jinja" width="40" height="30" style="margin-right:10px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="30" height="30" style="margin-right:10px;"/>
-    <img src="https://github.com/user-attachments/assets/074b8bb9-5ec9-4b66-9404-0b597a3de8a9" alt="Django" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/pallets/jinja/f8323cf4042ab058ac5b11743614c63308798541/artwork/jinjalogo.svg" alt="Jinja" height="20" style="margin-right:10px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" height="40" style="margin-right:10px;"/>
+    <img src="https://github.com/user-attachments/assets/074b8bb9-5ec9-4b66-9404-0b597a3de8a9" alt="Django"  height="20"/>
 </p>
 
-### Web Languages
+#### Web Languages
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin-right:10px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="margin-right:10px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="20" style="margin-right:10px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="20" style="margin-right:10px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="20"/>
 </p>
 
-### Web Framework & Libraries
+#### Web Framework & Libraries
 <p align="left">
-    <img src="https://github.com/user-attachments/assets/a008d51b-b0f6-420e-9aec-01dd87567069" alt="Bootstrap 5" width="40" height="40" style="margin-right:10px;"/>    
-    <img src="https://github.com/user-attachments/assets/1a970e61-d185-44ec-a713-fa190368b929" alt="Three.JS" width="40" height="40" style="margin-right:10px;"/>        
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.JS" width="40" height="40" style="margin-right:10px;"/>
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.JS" width="40" height="40" style="margin-right:10px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.JS" width="40" height="40" style="margin-right:10px;"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+    <img src="https://github.com/user-attachments/assets/a008d51b-b0f6-420e-9aec-01dd87567069" alt="Bootstrap 5" height="20" style="margin-right:10px;"/>    
+    <img src="https://github.com/user-attachments/assets/1a970e61-d185-44ec-a713-fa190368b929" alt="Three.JS"  height="20" style="margin-right:10px;"/>        
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.JS" height="20" style="margin-right:10px;"/>
+    <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.JS" height="20" style="margin-right:10px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.JS" height="20" style="margin-right:10px;"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="20"/>
 </p>
 
-### CMS Technologies
+#### CMS Technologies
 
 <p align="left">
     <img src="https://github.com/user-attachments/assets/15243b6d-8253-465e-bee7-88c31ee8a5a3" alt="WordPress" height="40" style="margin-right:10px;"/>
