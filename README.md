@@ -27,6 +27,7 @@ Ask me about web application development, data technology integration, or strate
 
 
 
+
 😄 Pronouns: ...
 He/Him
 
@@ -70,6 +71,8 @@ I've created a management simulation game as a personal project that uses AI alg
             </td>
             <td>
                 <img src="https://github.com/user-attachments/assets/8a963148-f144-4803-8457-923807cb9c56" alt="Anaconda" height="30"/>
+<img src="https://github.com/user-attachments/assets/1101c54e-7dcb-497f-ad6e-9f530d3687c8" alt="Icon Description" height="30"/>
+
                 <img src="https://rstudio.com/assets/img/og/shiny-og-fb.jpg" alt="Shiny" height="30"/>
                 <img src="https://github.com/user-attachments/assets/f83917af-2337-46ec-868b-ee344434a8b5" alt="Streamlit" height="30"/>
                 <img src="https://pentapps.com/wp-content/uploads/2023/09/logo-BI.png" alt="Power BI" height="30"/>
@@ -120,29 +123,7 @@ I've created a management simulation game as a personal project that uses AI alg
 </table>
 
 
-#### Web Framework & Libraries
-<p align="left">
-    <img src="https://github.com/user-attachments/assets/a008d51b-b0f6-420e-9aec-01dd87567069" alt="Bootstrap 5" height="20" style="margin-right:10px;"/>    
-    <img src="https://github.com/user-attachments/assets/1a970e61-d185-44ec-a713-fa190368b929" alt="Three.JS"  height="20" style="margin-right:10px;"/>        
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.JS" height="20" style="margin-right:10px;"/>
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.JS" height="20" style="margin-right:10px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.JS" height="20" style="margin-right:10px;"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="20"/>
-</p>
 
-#### CMS Technologies
-
-<p align="left">
-    <img src="https://github.com/user-attachments/assets/15243b6d-8253-465e-bee7-88c31ee8a5a3" alt="WordPress" height="40" style="margin-right:10px;"/>
-    <img src="https://miro.medium.com/v2/resize:fit:801/1*yJ_bESi7cLeMTBvPyzHHCw.png" alt="Divi Builder"  height="40" style="margin-right:10px;"/>
-    <img src="https://e7.pngegg.com/pngimages/253/553/png-clipart-elementor-logo-thumbnail-tech-companies.png" alt="Elementor"  height="40"/>
-</p>
-
-### Data Science / ML Programming Languages
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" style="margin-right:10px;"/>
-    <img src="https://github.com/user-attachments/assets/23954d82-17b0-4d22-b663-45424145fe16" alt="R" height="40"/>
-</p>
 
 
 ### Libraries for ML / DL
