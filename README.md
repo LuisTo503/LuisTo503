@@ -26,12 +26,17 @@ Ask me about web application development, data technology integration, or strate
 
 
 
+
 😄 Pronouns: ...
 He
 
 ⚡ Fun fact: ...
 I've created a management simulation game as a personal project that uses AI algorithms to learn and adapt to the player's decisions! I love combining technology and creativity to make unique projects.
 
+### General Programming Languages
+| C++ | Python |
+| --- | --- |
+| ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) | ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) |
 
 ### General Programming Languages
 <p align="left">
@@ -64,10 +69,11 @@ I've created a management simulation game as a personal project that uses AI alg
 </p>
 
 ### CMS Technologies
+
 <p align="left">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/WordPress_Blue_logo.svg/768px-WordPress_Blue_logo.svg.png" alt="WordPress" width="40" height="40" style="margin-right:10px;"/>
-    <img src="https://divi.space/wp-content/uploads/2020/03/divi-icon.png" alt="Divi Builder" width="40" height="40" style="margin-right:10px;"/>
-    <img src="https://elementor.com/assets/images/logo.png" alt="Elementor" width="40" height="40"/>
+    <img src="https://github.com/user-attachments/assets/15243b6d-8253-465e-bee7-88c31ee8a5a3" alt="WordPress" width="40" height="40" style="margin-right:10px;"/>
+    <img src="https://miro.medium.com/v2/resize:fit:801/1*yJ_bESi7cLeMTBvPyzHHCw.png" alt="Divi Builder" width="40" height="40" style="margin-right:10px;"/>
+    <img src="https://e7.pngegg.com/pngimages/253/553/png-clipart-elementor-logo-thumbnail-tech-companies.png" alt="Elementor" width="40" height="40"/>
 </p>
 
 ### Programming Languages for Data Science, Data Analyst and Machine Learning
