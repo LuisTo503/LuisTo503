@@ -130,7 +130,8 @@ I've created a management simulation game as a personal project that uses AI alg
   </tr>
   <tr>
     <td>
-      Python, R
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30"/>
+      <img src="https://github.com/user-attachments/assets/23954d82-17b0-4d22-b663-45424145fe16" alt="R" height="40"/>
     </td>
     <td>
       <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/cloudera_logo_icon_169381.png" alt="Cloudera" height="20" style="margin-right:10px;"/>
