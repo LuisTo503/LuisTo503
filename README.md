@@ -86,7 +86,7 @@ I've created a management simulation game as a personal project that uses AI alg
     </tbody>
 </table>
 
-<h3>WebTech´s</h3>
+<h3>Web Tech´s</h3>
 <table>
   <tr>
     <th>Web Languages</th>
@@ -121,10 +121,8 @@ I've created a management simulation game as a personal project that uses AI alg
   </tr>
 </table>
 
+<h3>Tech's for Big Data & Data Mining</h3>
 <table>
-  <tr>
-    <th>Tech's for Big Data & Data Mining</th>
-  </tr>
   <tr>
     <th>Languages</th>
     <th>On-Premise</th>
