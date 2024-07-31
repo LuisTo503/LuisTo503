@@ -36,7 +36,7 @@ I've created a management simulation game as a personal project that uses AI alg
 
 
  
-## Technology Overview ⭐️ 🌟 ✨
+# ⭐️ 🌟 ✨ Technology Overview 
 ### Data Science/Machine & Deep Learning ⭐️⭐️⭐️
 
 <table>
