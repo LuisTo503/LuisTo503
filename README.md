@@ -35,8 +35,10 @@ He/Him
 I've created a management simulation game as a personal project that uses AI algorithms to learn and adapt to the player's decisions! I love combining technology and creativity to make unique projects.
 
 
-<h3>Technology Overview</h3>
-<h3>Data Science/Machine & Deep Learning</h3>
+ 
+### Technology Overview ⭐️ 🌟 ✨
+### Data Science/Machine & Deep Learning ⭐️⭐️⭐️
+
 <table>
     <thead>
         <tr>
@@ -86,7 +88,7 @@ I've created a management simulation game as a personal project that uses AI alg
     </tbody>
 </table>
 
-<h3>Web Tech´s</h3>
+### Web Tech´s ⭐️⭐️⭐️
 <table>
   <tr>
     <th>Web Languages</th>
@@ -122,7 +124,7 @@ I've created a management simulation game as a personal project that uses AI alg
 </table>
 
 
-<h3>Tech's for Big Data & Data Mining</h3>
+### Tech's for Big Data & Data Mining ⭐️⭐️⭐️
 <table>
   <tr>
     <th>Languages</th>
@@ -160,7 +162,7 @@ I've created a management simulation game as a personal project that uses AI alg
   </tr>
 </table>
 
-<h3>Hosting/SaaS</h3>
+### Hosting/SaaS ⭐️⭐️⭐️
 <table>
     <tr>
         <td>
@@ -178,7 +180,7 @@ I've created a management simulation game as a personal project that uses AI alg
     </tr>
 </table>
 
-<h3>Sistemas Operativos</h3>
+### Sistemas Operativos ⭐️⭐️⭐️
 <table>
     <tr>
         <td>
@@ -189,7 +191,7 @@ I've created a management simulation game as a personal project that uses AI alg
     </tr>
 </table>
 
-<h3>Design</h3>
+### Design ⭐️⭐️⭐️⭐️
 <table>
     <tr>
         <td>
@@ -205,7 +207,7 @@ I've created a management simulation game as a personal project that uses AI alg
     </tr>
 </table>
 
-<h3>Other Tech’s</h3>
+### Other Tech’s ⭐️⭐️⭐️
 <table>
     <tr>
         <td>
