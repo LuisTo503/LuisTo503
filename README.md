@@ -1,42 +1,45 @@
-## ¡Hola! Soy Luis Tobar 👋
-Soy un apasionado a las tecnologias web y machine learnign
+# 💫 About Me:
+Hi! I'm Luis, a passionate programmer with 20 years of experience and constantly evolving from El Salvador. My career is marked by a deep curiosity and an unwavering desire to learn, which has led me to explore and master a wide range of technologies and programming languages. <br><br>With a solid background in software development, I have worked on numerous projects ranging from web applications to Big Data and Machine Learning solutions. My approach is always to strive for excellence and excel, not only by meeting requirements, but by exceeding expectations and providing innovative and effective solutions. <br><br>Each project is a new opportunity to challenge myself and grow, and I am constantly looking to collaborate on initiatives that allow me to contribute and learn. I am passionate about teamwork, solving complex problems, and the positive impact that technology can have on the world. <br><br>If you are looking for a committed professional, with extensive experience and an always positive and proactive attitude, do not hesitate to contact me! I am excited to explore new opportunities and contribute my energy and knowledge to exciting projects.
 
-![Tu Imagen de Perfil](URL_DE_TU_IMAGEN)
 
-[LinkedIn](www.linkedin.com/in/luis-tobar-79129944) | [Twitter](TU_TWITTER) | [Portafolio](TU_PORTAFOLIO)
+- **Location:** San Salvador, El Salvador
+- **Hobbies:** Photography, Ornithology and Visual Arts.
+- **Education:** Systems Engineer, Master in Colorism and Professional Retouching, Master in Machine Learning, Master in Data Analyst.
 
-<!--
-**LuisTo503/LuisTo503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on ...
+I’m working on developing innovative solutions for web applications and Big Data. Currently, I’m leading a project to integrate emerging technologies into a real-time data analytics platform.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Acerca de Mí
+🌱 I’m currently learning ...
+I’m exploring artificial intelligence and machine learning to apply these concepts in creating predictive models and advanced analytics. I’m also delving into development with new frontend technologies such as React and Vue.js.
 
-Soy [Luis Tobar], un [Desarrollor Web, Data Scientific Data Analyst] con experiencia en [Diseño Web, Aplicaciones de Machine Learning y Analisis de Datos ]. Me encanta [tu pasión o lo que disfrutas hacer, e.g., crear aplicaciones innovadoras, resolver problemas complejos, etc.].
+👯 I’m looking to collaborate on ...
+I’m looking to collaborate on challenging projects involving digital transformation, data analytics, and software development. I’m especially interested in working with teams looking for innovative solutions and emerging technologies.
 
-- **Ubicación:** [San Salvador, El Salvador]
-- **Hobbies:** [Fotografía, Ornitología y Artes Visuales.]
-- **Educación:** [Ingeniero de Sistemas, Máster en Colorismo y Retoque Profesional, Máster en Machine Learning, Máster en Data Analyst]
+🤔 I’m looking for help with ...
+I’d like to get advice and best practices on implementing scalable architectures in Big Data and AI projects. I’m also open to learning more about DevOps tools and deployment automation.
 
-  <h1 align="center">Hi 👋, I'm Luis Tobar</h1>
-<h3 align="center">A passionate frontend developer, data scientific, data analyst from El Salvador</h3>
+💬 Ask me about ...
+Ask me about web application development, data technology integration, or strategies to optimize system performance. I can also share my experiences on complex project management and best practices in programming.
+
+📫 How to reach me: You can contact me via [email](mailto:rgbmultimedios@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/luis-tobar-79129944). I'm also available for talks and collaborations via [Twitter](https://x.com/rgbmultimedios).
+
+
+
+😄 Pronouns: ...
+He
+
+⚡ Fun fact: ...
+I've created a management simulation game as a personal project that uses AI algorithms to learn and adapt to the player's decisions! I love combining technology and creativity to make unique projects.
+
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisto503&label=Profile%20views&color=0e75b6&style=flat" alt="luisto503" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luisto503" alt="luisto503" /></a> </p>
 
-- 🔭 I’m currently working on **Python,**
-
-- 📫 How to reach me **rgbmultimedios@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -60,6 +63,19 @@ Soy [Luis Tobar], un [Desarrollor Web, Data Scientific Data Analyst] con experie
 </a>
 
 
-![image](https://github.com/user-attachments/assets/da3b6878-b3c8-4636-ba88-c97d598aefb0)
-![image](https://github.com/user-attachments/assets/3f0446b2-c041-4f41-afff-8b9b828ddbe4)
-![image](https://github.com/user-attachments/assets/82f2c334-2095-41c9-99b0-a3416d70474b)
+<br>
+<!-- Icono 1 -->
+<a href="https://github.com/user-attachments/assets/da3b6878-b3c8-4636-ba88-c97d598aefb0" target="_blank">
+    <img src="https://github.com/user-attachments/assets/da3b6878-b3c8-4636-ba88-c97d598aefb0" alt="Icon 1" width="40" height="40" style="margin-right: 30px;">
+</a>
+
+<!-- Icono 2 -->
+<a href="https://github.com/user-attachments/assets/3f0446b2-c041-4f41-afff-8b9b828ddbe4" target="_blank">
+    <img src="https://github.com/user-attachments/assets/3f0446b2-c041-4f41-afff-8b9b828ddbe4" alt="Icon 2" width="40" height="40" style="margin-right: 30px;">
+</a>
+
+<!-- Icono 3 -->
+<a href="https://github.com/user-attachments/assets/82f2c334-2095-41c9-99b0-a3416d70474b" target="_blank">
+    <img src="https://github.com/user-attachments/assets/82f2c334-2095-41c9-99b0-a3416d70474b" alt="Icon 3" width="40" height="40" style="margin-right: 30px;">
+</a>
+
