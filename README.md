@@ -166,7 +166,7 @@ I've created a management simulation game as a personal project that uses AI alg
         <td>
             <img src="https://cdn.icon-icons.com/icons2/2699/PNG/96/amazon_aws_logo_icon_168666.png" alt="AWS" style="height: 20px;">
             <img src="https://github.com/user-attachments/assets/a8cc9802-3539-45f1-9b71-8c5957e834f2" alt="Azure" style="height: 20px;">
-            <img src="https://academy.bluehost.com/wp-content/uploads/2023/07/cropped-bh-transparent-logo-1-1.png" alt="BlueHost" style="height: 20px;">
+            <img src="[https://academy.bluehost.com/wp-content/uploads/2023/07/cropped-bh-transparent-logo-1-1.png](https://www.bluehost.com/content/experience-fragments/bluehost/siteheader/master/_jcr_content/root/header/logo.coreimg.svg/1685605417392/bluehost-logo.svg)" alt="BlueHost" style="height: 20px;">
             <img src="https://www.hostinger.es/h-assets/svg/icons/logos/hostinger-logo.svg#svgView(viewBox(0%200%20147%2030))" alt="Hostinger" style="height: 20px;">
             <img src="https://cdn.icon-icons.com/icons2/2699/PNG/96/godaddy_logo_icon_169094.png" alt="GoDaddy" style="height: 20px;">
             <img src="https://github.com/user-attachments/assets/63968c1e-eb84-4e30-b926-ae99b219ff36" alt="Cloudflare" style="height: 20px;">
@@ -174,6 +174,49 @@ I've created a management simulation game as a personal project that uses AI alg
             <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" style="height: 20px;">
             <img src="https://cdn.icon-icons.com/icons2/2699/PNG/96/netlify_logo_icon_169924.png" alt="Netlify" style="height: 20px;">
             <img src="https://camo.githubusercontent.com/d4df6855e2016f03f3a10b6f06e4f356286a81dfa90289cd61d6da57b118fd98/68747470733a2f2f636f6e76656e742e75732f636f6d706f6e656e74732f67726170686963732f736b696c6c732f7079616e7977686572652e706e67" alt="PythonAnywhere" style="height: 20px;">
+        </td>
+    </tr>
+</table>
+
+<h3>Sistemas Operativos</h3>
+<table>
+    <tr>
+        <td>
+            <img src="https://github.com/user-attachments/assets/c409710f-8377-4e11-b8e4-11c952c4e749" alt="Windows" style="height: 20px;">
+            <img src="https://cdn.icon-icons.com/icons2/643/PNG/96/mac-apple-osx-desktop-software-hardware_icon-icons.com_59289.png" alt="Mac OS X" style="height: 20px;">
+            <img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/ubuntu_plain_wordmark_logo_icon_146632.png" alt="Ubuntu" style="height: 20px;">
+        </td>
+    </tr>
+</table>
+
+<h3>Design</h3>
+<table>
+    <tr>
+        <td>
+            <img src="https://github.com/user-attachments/assets/dc0ca605-c6a5-4872-be3e-26f8da96e7a3" alt="Figma" style="height: 20px;">
+            <img src="https://github.com/user-attachments/assets/6eefc25b-2874-44b6-8ecc-fa759dd6ed55" alt="Adobe Photoshop" style="height: 20px;">
+            <img src="https://cdn.icon-icons.com/icons2/1088/PNG/96/1485282164-adobe-lightroom-lr-cc-creative-cloud_78305.png" alt="Adobe Lightroom Classic" style="height: 20px;">
+            <img src="https://cdn.icon-icons.com/icons2/3070/PNG/96/adobe_indesign_software_computer_app_design_software_icon_191061.png" alt="Adobe InDesign" style="height: 20px;">
+            <img src="https://github.com/user-attachments/assets/17926f4b-178f-404d-9908-489b5b702432" alt="Adobe Illustrator" style="height: 20px;">
+            <img src="https://github.com/user-attachments/assets/e2341d9a-d1bc-4cbc-87ce-3673169fafa5" alt="Adobe Premier Pro" style="height: 20px;">
+            <img src="https://cdn.icon-icons.com/icons2/1243/PNG/96/adobeauditionicon_84149.png" alt="Adobe Audition" style="height: 20px;">
+            <img src="https://github.com/user-attachments/assets/33a8e371-b560-477b-b853-6745097ecaad" alt="Adobe Xd" style="height: 20px;">
+        </td>
+    </tr>
+</table>
+
+<h3>Other Tech’s</h3>
+<table>
+    <tr>
+        <td>
+            <img src="https://github.com/user-attachments/assets/3751a342-25ec-4330-8228-78915815c09e" alt="Slack" style="height: 20px;">
+            <img src="https://www.docker.com/wp-content/uploads/2023/08/logo-guide-logos-1.svg" alt="Docker" style="height: 20px;">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" style="height: 20px;">
+            <img src="https://assets.prezicdn.net/assets-versioned/coverservice-versioned/4383-b61694b/coverservice/webflow/images/Vectors-Wrapper.svg" alt="Prezi" style="height: 20px;">
+            <img src="https://cdn.icon-icons.com/icons2/2389/PNG/96/notion_logo_icon_145025.png" alt="Notion" style="height: 20px;">
+            <img src="https://cdn.icon-icons.com/icons2/2389/PNG/96/zoom_logo_icon_144706.png" alt="Zoom" style="height: 20px;">
+            <img src="https://cdn.icon-icons.com/icons2/2397/PNG/96/microsoft_office_teams_logo_icon_145726.png" alt="Meeting" style="height: 20px;">
+            <img src="https://cdn.icon-icons.com/icons2/1826/PNG/96/4202103logomicrosoftmsofficesocialsocialmedia-115585_115716.png" alt="Office" style="height: 20px;">
         </td>
     </tr>
 </table>
