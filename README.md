@@ -210,7 +210,7 @@ I've created a management simulation game as a personal project that uses AI alg
     <tr>
         <td>
             <img src="https://github.com/user-attachments/assets/3751a342-25ec-4330-8228-78915815c09e" alt="Slack" style="height: 20px;">
-            <img src="https://www.docker.com/wp-content/uploads/2023/08/logo-guide-logos-1.svg" alt="Docker" style="height: 20px;">
+            <img src="https://www.docker.com/wp-content/uploads/2023/08/logo-guide-logos-1.svg" alt="Docker" style="height: 40px;">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" style="height: 20px;">
             <img src="https://assets.prezicdn.net/assets-versioned/coverservice-versioned/4383-b61694b/coverservice/webflow/images/Vectors-Wrapper.svg" alt="Prezi" style="height: 20px;">
             <img src="https://cdn.icon-icons.com/icons2/2389/PNG/96/notion_logo_icon_145025.png" alt="Notion" style="height: 20px;">
@@ -231,38 +231,9 @@ I've created a management simulation game as a personal project that uses AI alg
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luisto503" alt="luisto503" /></a> </p>
 
-
-
-
-
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisto503&show_icons=true&locale=en&layout=compact" alt="luisto503" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luisto503&show_icons=true&locale=en" alt="luisto503" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luisto503&" alt="luisto503" /></p>
-
-### Certificate Web Application Development
-
-<a href="https://drive.google.com/file/d/1cni0NAWmIDBMocpi6v-sy910ykjJGoFh/view?usp=sharing" target="_blank">
-    <img src="https://img.icons8.com/ios/50/000000/certificate.png" alt="Certificate" height="40" style="vertical-align: middle;"/>
-</a>
-
-
-<br>
-<!-- Icono 1 -->
-<a href="https://github.com/user-attachments/assets/da3b6878-b3c8-4636-ba88-c97d598aefb0" target="_blank">
-    <img src="https://github.com/user-attachments/assets/da3b6878-b3c8-4636-ba88-c97d598aefb0" alt="Icon 1"  height="40" style="margin-right: 30px;">
-</a>
-
-<!-- Icono 2 -->
-<a href="https://github.com/user-attachments/assets/3f0446b2-c041-4f41-afff-8b9b828ddbe4" target="_blank">
-    <img src="https://github.com/user-attachments/assets/3f0446b2-c041-4f41-afff-8b9b828ddbe4" alt="Icon 2"  height="40" style="margin-right: 30px;">
-</a>
-
-<!-- Icono 3 -->
-<a href="https://github.com/user-attachments/assets/82f2c334-2095-41c9-99b0-a3416d70474b" target="_blank">
-    <img src="https://github.com/user-attachments/assets/82f2c334-2095-41c9-99b0-a3416d70474b" alt="Icon 3"  height="40" style="margin-right: 30px;">
-</a>
 
