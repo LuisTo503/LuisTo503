@@ -131,7 +131,7 @@ I've created a management simulation game as a personal project that uses AI alg
   <tr>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30"/>
-      <img src="https://github.com/user-attachments/assets/23954d82-17b0-4d22-b663-45424145fe16" alt="R" height="40"/>
+      <img src="https://github.com/user-attachments/assets/23954d82-17b0-4d22-b663-45424145fe16" alt="R" height="20"/>
     </td>
     <td>
       <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/cloudera_logo_icon_169381.png" alt="Cloudera" height="20" style="margin-right:10px;"/>
@@ -145,47 +145,71 @@ I've created a management simulation game as a personal project that uses AI alg
   </tr>
 </table>
 
-### Libraries for ML / DL
-<p align="left">
-    <img src="https://github.com/user-attachments/assets/d16e70dd-e0a0-4e0c-94e1-f5ba38d429ec" alt="Keras"  height="30" style="margin-right:10px;"/>
-    <img src="https://github.com/user-attachments/assets/b891516b-be72-4a41-ac9f-baa5e76a6b19" alt="Matplotlib" height="20" style="margin-right:10px;"/>
-    <img src="https://numpy.org/images/logo.svg" alt="Numpy" height="40" style="margin-right:10px;"/>
-    <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas" height="20" style="margin-right:10px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="Plotly" height="20" style="margin-right:10px;"/>
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="Pytorch" height="20" style="margin-right:10px;"/>
-    <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-Learn"  height="40" style="margin-right:10px;"/>
-    <img src="https://avatars.githubusercontent.com/u/288277?v=4" alt="Scipy" height="20" style="margin-right:10px;"/>
-    <img src="https://www.tensorflow.org/images/tf_logo_32px.png" alt="TensorFlow" height="20"/>
-</p>
-
-### Technologies for Big Data
-<p align="left">
-    <img src="https://www.cloudera.com/content/dam/www/brand/logo/cloudera-logo.svg" alt="Cloudera"  height="40" style="margin-right:10px;"/>
-    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Apache Hadoop"  height="40" style="margin-right:10px;"/>
-    <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Apache Hive"  height="40" style="margin-right:10px;"/>
-    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache Spark"  height="40" style="margin-right:10px;"/>
-    <img src="https://www.mongodb.com/assets/images/global/favicon.ico" alt="MongoDB" height="40" style="margin-right:10px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" style="margin-right:10px;"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Microsoft_Excel_logo_%282017%E2%80%93present%29.svg" alt="Excel" height="40" style="margin-right:10px;"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Orange_logo.svg/1024px-Orange_logo.svg.png" alt="Orange" height="40" style="margin-right:10px;"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Matlab_Logo.svg/220px-Matlab_Logo.svg.png" alt="MatLab" height="40"/>
-</p>
-
-### Data Visualization
-
-<p align="left">
-    <img src="https://github.com/user-attachments/assets/8a963148-f144-4803-8457-923807cb9c56" alt="Anaconda" height="30" style="margin-right:10px;"/>
-    <img src="https://rstudio.com/assets/img/og/shiny-og-fb.jpg" alt="Shiny" height="30" style="margin-right:10px;"/>
-    <img src="https://github.com/user-attachments/assets/f83917af-2337-46ec-868b-ee344434a8b5" alt="Streamlit" height="30" style="margin-right:10px;"/>
-    <img src="https://pentapps.com/wp-content/uploads/2023/09/logo-BI.png" alt="Power Bi" height="30" style="margin-right:10px;"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/640px-Tableau_Logo.png" alt="Tableau" height="30" style="margin-right:10px;"/>
-    <img src="https://github.com/user-attachments/assets/eac31c78-4b59-4271-9749-c1ccd361bfbf" alt="Hadoop" height="30" style="margin-right:10px;"/>
-    <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU1DiCSZZw76FPxH88CYcg_qb6hWBteVFdTA&s">
-        <img src="https://github.com/user-attachments/assets/eac31c78-4b59-4271-9749-c1ccd361bfbf" alt="Hive" height="30" style="margin-right:10px;"/>
-    </a>
-    <img src="https://logowik.com/content/uploads/images/google-bigquery6102.jpg" alt="Google BigQuery" height="30"/>
-</p>
-
+<table>
+  <tr>
+    <th colspan="4">Technologies for Big Data & Data Mining</th>
+  </tr>
+  <tr>
+    <th>Languages</th>
+    <th>Data Processing</th>
+    <th>On-Premise</th>
+    <th>Cloud Computing</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30" style="margin-right:10px;"/>
+      <img src="https://github.com/user-attachments/assets/23954d82-17b0-4d22-b663-45424145fe16" alt="R" height="20"/>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/4b319825-880b-4a4d-923d-bc0a503bd337" alt="Spark" height="20" style="margin-right:10px;"/>
+      <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" height="20" style="margin-right:10px;"/>
+      <a href="https://hive.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive" height="20"/>
+      </a>
+    </td>
+    <td>
+      <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/cloudera_logo_icon_169381.png" alt="Cloudera" height="20" style="margin-right:10px;"/>
+      <img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202106excellogomicrosoftms-115582_115719.png" alt="Excel" height="20" style="margin-right:10px;"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Orange-software-logo.png/640px-Orange-software-logo.png" alt="Orange" height="20"/>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/a8cc9802-3539-45f1-9b71-8c5957e834f2" alt="Azure" height="20" style="margin-right:10px;"/>
+      <img src="https://github.com/user-attachments/assets/aa087d20-234d-4cc5-acd3-aca5504abf9c" alt="Google Cloud" height="20"/>
+    </td>
+  </tr>
+  <tr>
+    <th colspan="4">Tech's Big Data</th>
+  </tr>
+  <tr>
+    <th>DB</th>
+    <th>Data Processing</th>
+    <th>On-Premise</th>
+    <th>Cloud Computing</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/3298a8a8-c0c1-46fb-a731-b210a72129bb" alt="MongoDB" height="20" style="margin-right:10px;"/>
+      <img src="https://github.com/user-attachments/assets/d9abeaea-7408-4469-a9a4-7cda11d9d9a9" alt="MySQL" height="20" style="margin-right:10px;"/>
+      <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mariadb_logo_icon_168996.png" alt="MariaDB" height="20"/>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/4b319825-880b-4a4d-923d-bc0a503bd337" alt="Spark" height="20" style="margin-right:10px;"/>
+      <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" height="20" style="margin-right:10px;"/>
+      <a href="https://hive.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive" height="20"/>
+      </a>
+    </td>
+    <td>
+      <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/cloudera_logo_icon_169381.png" alt="Cloudera" height="20" style="margin-right:10px;"/>
+      <img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202106excellogomicrosoftms-115582_115719.png" alt="Excel" height="20" style="margin-right:10px;"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Orange-software-logo.png/640px-Orange-software-logo.png" alt="Orange" height="20"/>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/a8cc9802-3539-45f1-9b71-8c5957e834f2" alt="Azure" height="20" style="margin-right:10px;"/>
+      <img src="https://github.com/user-attachments/assets/aa087d20-234d-4cc5-acd3-aca5504abf9c" alt="Google Cloud" height="20"/>
+    </td>
+  </tr>
+</table>
 
 
 
@@ -204,8 +228,8 @@ I've created a management simulation game as a personal project that uses AI alg
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular"  height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash"  height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js"  height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"  height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"  height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes"  height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"  height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab"  height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"  height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"  height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"  height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"  height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas"  height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"  height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"  height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch"  height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"  height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"  height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn"  height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite"  height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"  height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs"  height="40"/> </a> </p>
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisto503&show_icons=true&locale=en&layout=compact" alt="luisto503" /></p>
 
