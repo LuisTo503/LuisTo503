@@ -160,8 +160,25 @@ I've created a management simulation game as a personal project that uses AI alg
   </tr>
 </table>
 
-
-    
+<h3>Hosting/Saas
+    <table> 
+        <tr>
+        <td>
+         <img src="https://cdn.icon-icons.com/icons2/2699/PNG/96/amazon_aws_logo_icon_168666.png" alt="AWS" style="height: 20px;">
+    <img src="https://github.com/user-attachments/assets/a8cc9802-3539-45f1-9b71-8c5957e834f2" alt="Azure" style="height: 20px;">
+    <img src="https://academy.bluehost.com/wp-content/uploads/2023/07/cropped-bh-transparent-logo-1-1.png" alt="BlueHost" style="height: 20px;">
+    <img src="https://www.hostinger.es/h-assets/svg/icons/logos/hostinger-logo.svg#svgView(viewBox(0%200%20147%2030))" alt="Hostinger" style="height: 20px;">
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/96/godaddy_logo_icon_169094.png" alt="GoDaddy" style="height: 20px;">
+    <img src="https://github.com/user-attachments/assets/63968c1e-eb84-4e30-b926-ae99b219ff36" alt="Cloudflare" style="height: 20px;">
+    <img src="https://github.com/user-attachments/assets/aa087d20-234d-4cc5-acd3-aca5504abf9c" alt="Google Cloud" style="height: 20px;">
+    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" style="height: 20px;">
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/96/netlify_logo_icon_169924.png" alt="Netlify" style="height: 20px;">
+    <img src="https://camo.githubusercontent.com/d4df6855e2016f03f3a10b6f06e4f356286a81dfa90289cd61d6da57b118fd98/68747470733a2f2f636f6e76656e742e75732f636f6d706f6e656e74732f67726170686963732f736b696c6c732f7079616e7977686572652e706e67" alt="PythonAnywhere" style="height: 20px;">
+   
+        </td>
+            
+        </tr>
+    </table>
 ### Certificate Web Application Development
 
 [![Certificate](https://img.icons8.com/ios/50/000000/certificate.png)](https://drive.google.com/file/d/1cni0NAWmIDBMocpi6v-sy910ykjJGoFh/view?usp=sharing)
