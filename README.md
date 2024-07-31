@@ -86,7 +86,7 @@ I've created a management simulation game as a personal project that uses AI alg
     </tbody>
 </table>
 
-<h3>Web</h3>
+<h3>WebTech´s</h3>
 <table>
   <tr>
     <th>Web Languages</th>
@@ -121,9 +121,30 @@ I've created a management simulation game as a personal project that uses AI alg
   </tr>
 </table>
 
-
-
-
+<table>
+  <tr>
+    <th>Tech's for Big Data & Data Mining</th>
+  </tr>
+  <tr>
+    <th>Languages</th>
+    <th>On-Premise</th>
+    <th>Cloud</th>
+  </tr>
+  <tr>
+    <td>
+      Python, R
+    </td>
+    <td>
+      <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/cloudera_logo_icon_169381.png" alt="Cloudera" height="20" style="margin-right:10px;"/>
+      <img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202106excellogomicrosoftms-115582_115719.png" alt="Excel" height="20" style="margin-right:10px;"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Orange-software-logo.png/640px-Orange-software-logo.png" alt="Orange" height="20"/>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/a8cc9802-3539-45f1-9b71-8c5957e834f2" alt="Azure" height="20" style="margin-right:10px;"/>
+      <img src="https://github.com/user-attachments/assets/aa087d20-234d-4cc5-acd3-aca5504abf9c" alt="Google Cloud" height="20"/>
+    </td>
+  </tr>
+</table>
 
 ### Libraries for ML / DL
 <p align="left">
