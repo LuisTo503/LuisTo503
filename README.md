@@ -121,31 +121,8 @@ I've created a management simulation game as a personal project that uses AI alg
   </tr>
 </table>
 
-<h3>Tech's for Big Data & Data Mining</h3>
-<table>
-  <tr>
-    <th>Languages</th>
-    <th>On-Premise</th>
-    <th>Cloud</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30"/>
-      <img src="https://github.com/user-attachments/assets/23954d82-17b0-4d22-b663-45424145fe16" alt="R" height="20"/>
-    </td>
-    <td>
-      <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/cloudera_logo_icon_169381.png" alt="Cloudera" height="20" style="margin-right:10px;"/>
-      <img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202106excellogomicrosoftms-115582_115719.png" alt="Excel" height="20" style="margin-right:10px;"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Orange-software-logo.png/640px-Orange-software-logo.png" alt="Orange" height="20"/>
-    </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/a8cc9802-3539-45f1-9b71-8c5957e834f2" alt="Azure" height="20" style="margin-right:10px;"/>
-      <img src="https://github.com/user-attachments/assets/aa087d20-234d-4cc5-acd3-aca5504abf9c" alt="Google Cloud" height="20"/>
-    </td>
-  </tr>
-</table>
 
-<h3>Tech's</h3>
+<h3>Tech's for Big Data & Data Mining</h3>
 <table>
   <tr>
     <th>Languages</th>
@@ -159,38 +136,6 @@ I've created a management simulation game as a personal project that uses AI alg
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30" style="margin-right:10px;"/>
       <img src="https://github.com/user-attachments/assets/23954d82-17b0-4d22-b663-45424145fe16" alt="R" height="20"/>
     </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/3298a8a8-c0c1-46fb-a731-b210a72129bb" alt="MongoDB" height="20" style="margin-right:10px;"/>
-      <img src="https://github.com/user-attachments/assets/d9abeaea-7408-4469-a9a4-7cda11d9d9a9" alt="MySQL" height="20" style="margin-right:10px;"/>
-      <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mariadb_logo_icon_168996.png" alt="MariaDB" height="20"/>
-    </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/4b319825-880b-4a4d-923d-bc0a503bd337" alt="Spark" height="20" style="margin-right:10px;"/>
-      <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" height="20" style="margin-right:10px;"/>
-      <a href="https://hive.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive" height="20"/>
-      </a>
-    </td>
-    <td>
-      <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/cloudera_logo_icon_169381.png" alt="Cloudera" height="20" style="margin-right:10px;"/>
-      <img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202106excellogomicrosoftms-115582_115719.png" alt="Excel" height="20" style="margin-right:10px;"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Orange-software-logo.png/640px-Orange-software-logo.png" alt="Orange" height="20"/>
-    </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/a8cc9802-3539-45f1-9b71-8c5957e834f2" alt="Azure" height="20" style="margin-right:10px;"/>
-      <img src="https://github.com/user-attachments/assets/aa087d20-234d-4cc5-acd3-aca5504abf9c" alt="Google Cloud" height="20"/>
-    </td>
-  </tr>
-  <tr>
-    <th colspan="5">Tech's Big Data</th>
-  </tr>
-  <tr>
-    <th>DB</th>
-    <th>Data Processing</th>
-    <th>On-Premise</th>
-    <th>Cloud Computing</th>
-  </tr>
-  <tr>
     <td>
       <img src="https://github.com/user-attachments/assets/3298a8a8-c0c1-46fb-a731-b210a72129bb" alt="MongoDB" height="20" style="margin-right:10px;"/>
       <img src="https://github.com/user-attachments/assets/d9abeaea-7408-4469-a9a4-7cda11d9d9a9" alt="MySQL" height="20" style="margin-right:10px;"/>
