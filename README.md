@@ -172,8 +172,8 @@ I've created a management simulation game as a personal project that uses AI alg
             <img src="https://github.com/user-attachments/assets/63968c1e-eb84-4e30-b926-ae99b219ff36" alt="Cloudflare" style="height: 20px;">
             <img src="https://github.com/user-attachments/assets/aa087d20-234d-4cc5-acd3-aca5504abf9c" alt="Google Cloud" style="height: 20px;">
             <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" style="height: 20px;">
-            <img src="https://cdn.icon-icons.com/icons2/2699/PNG/96/netlify_logo_icon_169924.png" alt="Netlify" style="height: 20px;">
-            <img src="https://camo.githubusercontent.com/d4df6855e2016f03f3a10b6f06e4f356286a81dfa90289cd61d6da57b118fd98/68747470733a2f2f636f6e76656e742e75732f636f6d706f6e656e74732f67726170686963732f736b696c6c732f7079616e7977686572652e706e67" alt="PythonAnywhere" style="height: 20px;">
+            <img src="https://cdn.icon-icons.com/icons2/2699/PNG/96/netlify_logo_icon_169924.png" alt="Netlify" style="height: 40px;">
+            <img src="https://camo.githubusercontent.com/d4df6855e2016f03f3a10b6f06e4f356286a81dfa90289cd61d6da57b118fd98/68747470733a2f2f636f6e76656e742e75732f636f6d706f6e656e74732f67726170686963732f736b696c6c732f7079616e7977686572652e706e67" alt="PythonAnywhere" style="width: 30px;">
         </td>
     </tr>
 </table>
@@ -210,7 +210,7 @@ I've created a management simulation game as a personal project that uses AI alg
     <tr>
         <td>
             <img src="https://github.com/user-attachments/assets/3751a342-25ec-4330-8228-78915815c09e" alt="Slack" style="height: 20px;">
-            <img src="https://www.docker.com/wp-content/uploads/2023/08/logo-guide-logos-1.svg" alt="Docker" style="height: 40px;">
+            <img src="https://www.docker.com/wp-content/uploads/2023/08/logo-guide-logos-1.svg" alt="Docker" style="width: 40px;">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" style="height: 20px;">
             <img src="https://assets.prezicdn.net/assets-versioned/coverservice-versioned/4383-b61694b/coverservice/webflow/images/Vectors-Wrapper.svg" alt="Prezi" style="height: 20px;">
             <img src="https://cdn.icon-icons.com/icons2/2389/PNG/96/notion_logo_icon_145025.png" alt="Notion" style="height: 20px;">
