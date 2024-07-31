@@ -59,7 +59,7 @@ I've created a management simulation game as a personal project that uses AI alg
 ### Certificate Web Application Development
 
 <a href="https://drive.google.com/file/d/1cni0NAWmIDBMocpi6v-sy910ykjJGoFh/view?usp=sharing" target="_blank">
-    <img src="https://img.icons8.com/ios/50/000000/certificate.png" alt="Certificate" width="50" height="50" style="vertical-align: middle;"/>
+    <img src="https://img.icons8.com/ios/50/000000/certificate.png" alt="Certificate" width="40" height="40" style="vertical-align: middle;"/>
 </a>
 
 
