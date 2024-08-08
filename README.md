@@ -44,10 +44,10 @@ const LuisTo503 = {
          [Django, Flask]
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-                        student: "Kodigo",
-                        student: "Big Data",
-                        ex-student: "Omdena",
-                        ex-student: "FIA - UES",
+                        current_student_2: "Kodigo - Bootcamp ",
+                        current_student_1: "UES - Big Data",
+                        ex-student_2: "Machine_Learning - Omdena",
+                        ex-student_1: "FIA - UES",
                         always: "eternal student of life"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
