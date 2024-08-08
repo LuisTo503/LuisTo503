@@ -39,12 +39,13 @@ I've created a management simulation game as a personal project that uses AI alg
 ```javascript
 const LuisTo503 = {
   pronouns: "He" | "Him",
-  - **Languages & Technologies:**
-  - ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) JavaScript
-  - ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) HTML
-  - ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) CSS
-  - ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) Python
-  - ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg) Java
+´´´
+- **Languages & Technologies:**
+- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) JavaScript
+- ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) HTML
+- ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) CSS
+- ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) Python
+- ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg) Java
 
 - **Tools:**
   - ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) React
