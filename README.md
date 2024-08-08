@@ -39,22 +39,22 @@ I've created a management simulation game as a personal project that uses AI alg
 ```javascript
 const LuisTo503 = {
   pronouns: "He" | "Him",
-  code: [
-    '<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="20"/> JavaScript',
-    '<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="20"/> HTML',
-    '<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="20"/> CSS',
-    '<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="20"/> Python',
-    '<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" height="20"/> Java'
-  ],
-  tools: [
-    '<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="20"/> React',
-    '<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="20"/> Node.js',
-    '<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original-wordmark.svg" alt="Storybook" height="20"/> Storybook',
-    '<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/styledcomponents/styledcomponents-original.svg" alt="Styled-Components" height="20"/> Styled-Components',
-    '<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="20"/> Docker',
-    '<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" height="20"/> Django',
-    '<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" height="20"/> Flask'
-  ],
+  - **Languages & Technologies:**
+  - ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) JavaScript
+  - ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) HTML
+  - ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) CSS
+  - ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) Python
+  - ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg) Java
+
+- **Tools:**
+  - ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) React
+  - ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) Node.js
+  - ![Storybook](https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original-wordmark.svg) Storybook
+  - ![Styled-Components](https://raw.githubusercontent.com/devicons/devicon/master/icons/styledcomponents/styledcomponents-original.svg) Styled-Components
+  - ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg) Docker
+  - ![Django](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg) Django
+  - ![Flask](https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg) Flask
+
   code: [Javascript, HTML, CSS, Python, Java],
   tools: [React, Node, Storybook, Styled-Components, Docker],
          [Django, Flask]
