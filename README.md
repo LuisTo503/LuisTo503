@@ -34,7 +34,20 @@ He/Him
 ⚡ Fun fact: ...
 I've created a management simulation game as a personal project that uses AI algorithms to learn and adapt to the player's decisions! I love combining technology and creativity to make unique projects.
 
-
+## Resume
+const LuisTo503 = {
+  pronouns: "He" | "Him",
+  code: [Javascript, HTML, CSS, Python, Java],
+  tools: [React, Node, Storybook, Styled-Components, Docker],
+         [Django, Flask]
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        student: "Kodigo",
+                        ex-student: "Ondenma",
+                        ex-student: "UES"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
  
 # ⭐️ 🌟 ✨ Technology Overview 
 ### Data Science/Machine & Deep Learning ⭐️⭐️⭐️
