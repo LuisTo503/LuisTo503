@@ -35,6 +35,7 @@ He/Him
 I've created a management simulation game as a personal project that uses AI algorithms to learn and adapt to the player's decisions! I love combining technology and creativity to make unique projects.
 
 ## Resume
+```javascript
 const LuisTo503 = {
   pronouns: "He" | "Him",
   code: [Javascript, HTML, CSS, Python, Java],
@@ -48,6 +49,7 @@ const LuisTo503 = {
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
+```
  
 # ⭐️ 🌟 ✨ Technology Overview 
 ### Data Science/Machine & Deep Learning ⭐️⭐️⭐️
