@@ -98,7 +98,7 @@ const LuisTo503 = {
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/640px-Tableau_Logo.png" alt="Tableau" height="30"/>
                 <img src="https://github.com/user-attachments/assets/eac31c78-4b59-4271-9749-c1ccd361bfbf" alt="Hadoop" height="30"/>
                 <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU1DiCSZZw76FPxH88CYcg_qb6hWBteVFdTA&s">
-                    <img src="https://github.com/user-attachments/assets/eac31c78-4b59-4271-9749-c1ccd361bfbf" alt="Hive" height="30"/>
+                    <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive" height="20"/>
                 </a>
                 <img src="https://logowik.com/content/uploads/images/google-bigquery6102.jpg" alt="Google BigQuery" height="50"/>
             </td>
@@ -198,7 +198,7 @@ const LuisTo503 = {
     </tr>
 </table>
 
-### Sistemas Operativos ⭐️⭐️⭐️
+### Operating Systems ⭐️⭐️⭐️
 <table>
     <tr>
         <td>
